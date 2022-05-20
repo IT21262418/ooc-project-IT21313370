@@ -1,3 +1,4 @@
+//it21268380 jonekkuhewa r.r
 #include<iostream>
 #include "Payment.h"
 #include <cstring>
@@ -19,4 +20,7 @@ void Payment::checkDetails()
 }
 void Payment::displayStatus()
 {
+  
 }
+//
+//
