@@ -1,4 +1,4 @@
-//it 21268380 jonekkuhewa r.r
+//it21268380 jonekkuhewa r.r
 #pragma once
 #include "order.h"
 #define SIZE 2
@@ -20,4 +20,4 @@ public:
 };
 
 
-//
+/////
